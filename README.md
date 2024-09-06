@@ -65,6 +65,6 @@ I'm a passionate full-stack developer with experience in **microservice architec
 
 ### 📫 **Let's Connect**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasvidu-abesinghe-9b91b42a9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasvidu-abesinghe-9b91b42a9/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sasvidu2007/)
 
