@@ -18,13 +18,13 @@ I'm a passionate full-stack developer with experience in **microservice architec
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
@@ -38,23 +38,23 @@ I'm a passionate full-stack developer with experience in **microservice architec
 
 ### 🌟 **Featured Projects**:
 
-- 🏠 **[House Construction Platform](https://github.com/Sasvidu/house-construction)**  
+- 🏠 **[Dream Dwellings](https://github.com/Sasvidu/house-construction)**  
   ![House Construction](https://img.shields.io/badge/Frontend-Next.js-blue?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-Go-orange?style=flat-square)  
-  A tool for homeowners to manage and track construction projects.
+  A tool for people to realize their dream of owning a house by being contracted with builders.
 
-- 📦 **[News Nexus](https://github.com/Sasvidu/media-upload-service)**  
-  ![Go](https://img.shields.io/badge/Built_with-Go-00ADD8?style=flat-square) ![Express.js](https://img.shields.io/badge/API-Express.js-lightgrey?style=flat-square)  
-  A microservice for handling media uploads.
+- 📰 **[News Nexus](https://github.com/Sasvidu/media-upload-service)**  
+  ![Go](https://img.shields.io/badge/Built_with-Go-00ADD8?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  A news publishing platform meant to make each article feel special.
 
-- 🛒 **[Next.js Todo App](https://github.com/Sasvidu/nextjs-ecommerce)**  
-  ![Next.js](https://img.shields.io/badge/Built_with-Next.js-blue?style=flat-square) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square)  
-  A seamless e-commerce platform.
+- 🛒 **[Xtreme Tech](https://github.com/Sasvidu/nextjs-ecommerce)**  
+ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+  A seamless e-commerce platform built with php.
 
 ---
 
 ### 📈 **GitHub Stats**:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasvidu&show_icons=true&theme=radical)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasvidu&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasvidu&layout=compact&theme=radical)
 
 ---
@@ -68,7 +68,6 @@ I'm a passionate full-stack developer with experience in **microservice architec
 
 ### 📫 **Let's Connect**:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourname)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/sasvidu-abesinghe-9b91b42a9/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sasvidu2007/)
 
