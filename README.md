@@ -1,6 +1,6 @@
 # Hey! I'm Sasvidu👋
 
-![GitHub Banner](https://user-images.githubusercontent.com/your-username/banner-image.png)
+![GitHub Banner](https://user-images.githubusercontent.com/Sasvidu/banner-image.png)
 
 I'm a passionate full-stack developer with experience in **microservice architecture**, specializing in **Next.js**, **Go**, **Express**, and other modern technologies. I love building scalable and efficient applications that solve real-world problems. My current areas of focus right now are learning about DevOps and Machine Learning.
 
@@ -44,8 +44,8 @@ I'm a passionate full-stack developer with experience in **microservice architec
 
 ### 📈 **GitHub Stats**:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasvidu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasvidu&layout=compact&theme=radical)
 
 ---
 
