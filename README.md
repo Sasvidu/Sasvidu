@@ -39,15 +39,12 @@ I'm a passionate full-stack developer with experience in **microservice architec
 ### 🌟 **Featured Projects**:
 
 - 🏠 **[Dream Dwellings](https://github.com/Sasvidu/house-construction)**  
-  ![House Construction](https://img.shields.io/badge/Frontend-Next.js-blue?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-Go-orange?style=flat-square)  
   A tool for people to realize their dream of owning a house by being contracted with builders.
 
 - 📰 **[News Nexus](https://github.com/Sasvidu/media-upload-service)**  
-  ![Go](https://img.shields.io/badge/Built_with-Go-00ADD8?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   A news publishing platform meant to make each article feel special.
 
 - 🛒 **[Xtreme Tech](https://github.com/Sasvidu/nextjs-ecommerce)**  
- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
   A seamless e-commerce platform built with php.
 
 ---
